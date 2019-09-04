@@ -1,2 +1,4 @@
+# Build artifacts
 .gradle/
+.idea/
 build/
