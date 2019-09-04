@@ -12,4 +12,9 @@ $ git clone git@github.com:tumbarumba/kotlin-starter.git <project-folder>
 ```bash
 $ git remote remove origin
 ```
+* Modify `settings.gradle` to put in actual name of your project
+* Verify that everything is working by running Gradle:
+```bash
+$ ./gradlew build
+```
 * Replace `Example` and `ExampleTest` with your own code.
